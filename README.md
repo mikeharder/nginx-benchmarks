@@ -1,1 +1,1 @@
-# nginx-benchmarks
+# nginx-config
