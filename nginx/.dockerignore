@@ -4,3 +4,5 @@ Dockerfile
 
 # Unused files/folders
 README.md
+*.cmd
+*.sh
